@@ -8,7 +8,12 @@ Fuente de datos: Ministerio de Salud y Protección Social sobre la pandemia por 
 <img width="898" height="507" alt="image" src="https://github.com/user-attachments/assets/fb029d6f-d9cb-4cf8-a7fd-ea3cc04c82d9" />
 <img width="898" height="504" alt="image" src="https://github.com/user-attachments/assets/3feb1080-7e4c-46b4-9417-19a9773e7bd8" />
 <img width="902" height="500" alt="image" src="https://github.com/user-attachments/assets/49288392-68f0-454e-9830-7742effbe1de" />
+
+
+**Modelo de de Datos**
 ![Uploading image.png…]()
+
+
 
 
 
