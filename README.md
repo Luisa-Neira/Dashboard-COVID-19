@@ -10,9 +10,6 @@ Fuente de datos: Ministerio de Salud y Protección Social sobre la pandemia por 
 <img width="902" height="500" alt="image" src="https://github.com/user-attachments/assets/49288392-68f0-454e-9830-7742effbe1de" />
 
 
-**Modelo de de Datos**
-![Uploading image.png…]()
-
 
 
 
